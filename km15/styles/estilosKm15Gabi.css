@@ -1,0 +1,34 @@
+/* <!--  -->
+      <!-- estilos del navbar --> */
+.edicionModal-1 {
+  width: 300px;
+}
+
+.list-group-item:hover {
+  background-color: rgba(7, 39, 97, 0.952) !important;
+  color: #fff;
+  transition: 0.3s;
+}
+
+/* centrado del boton abono de las facturas */
+
+.botonCentro {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tamano {
+  width: 50%;
+}
+
+/* edicion del boton de facturacion */
+.edicionButton {
+  margin-bottom: 15px;
+}
+
+/* Edicion de los botones de opciones editar, borrar detalle, etc */
+
+.botonesOpciones {
+  margin-top: 3px;
+}
